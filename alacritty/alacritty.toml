@@ -1,0 +1,18 @@
+[window]
+padding = { x = 12, y = 12 }
+decorations = "none"
+opacity = 0.9
+
+[colors.primary]
+background = "#111111"
+foreground = "#e6e6e6"
+
+[colors.selection]
+text = "#ffffff"
+background = "#333333"
+
+[cursor]
+style = "Beam"
+
+[bell]
+duration = 0

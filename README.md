@@ -1,1 +1,1 @@
-Aí está meu dotfile, aproveite!
+não sei oque coloco aqui gng
